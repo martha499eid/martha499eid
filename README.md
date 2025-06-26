@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, I'm Martha Eid
 
-<!--
-**martha499eid/martha499eid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior web developer currently studying in the ALX Software Engineering program.  
+I started my programming journey by learning C++ and completed the CS50 course from Harvard.  
+Now, I'm focusing on front-end development using HTML, CSS, JavaScript, and React.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- C++  
+- Git
+
+## Upcoming Projects
+
+I’m currently working on building full websites from scratch, including:
+
+- A personal portfolio website  
+- A simple task management app  
+- A dynamic page using React
+
+## Contact
+
+LinkedIn: [https://www.linkedin.com/in/martha-eid-124033344](https://www.linkedin.com/in/martha-eid-124033344)
