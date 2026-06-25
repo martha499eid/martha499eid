@@ -2,16 +2,19 @@
 
 I'm a junior web developer currently studying in the ALX Software Engineering program.  
 I started my programming journey by learning C++ and completed the CS50 course from Harvard.  
-Now, I'm focusing on front-end development using HTML, CSS, JavaScript, and React.
+Now, I'm focusing on full stack development using Python and React.
 
 ## Skills
 
+- Python
+- Django
 - HTML  
 - CSS  
 - JavaScript  
 - React  
-- C++  
-- Git
+- C++
+- C  
+- Git/Github
 
 ## Upcoming Projects
 
